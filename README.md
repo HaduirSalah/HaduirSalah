@@ -16,7 +16,7 @@
 <ul align="left">
    <li>
     👩‍💻 My projects are available at
-    <a href="[https://github.com/HaduirSalah/](https://github.com/HaduirSalah?tab=repositories)">https://github.com/HaduirSalah/</a>
+    <a href="https://github.com/HaduirSalah?tab=repositories">https://github.com/HaduirSalah/</a>
    </li> 
   
 </ul>
